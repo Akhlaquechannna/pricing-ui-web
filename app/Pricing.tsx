@@ -8,7 +8,7 @@ import {
   Icon,
 } from "@chakra-ui/react";
 import React from "react";
-import checkmarkicons from "./icons/checkMarkIcons";
+import checkmarkicons from "./icons/checkmarkicons";
 
 export default function Pricing() {
   return (
